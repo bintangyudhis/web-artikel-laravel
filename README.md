@@ -53,6 +53,10 @@ Untuk menjalankan Laravel bersama Vite dan layanan pendukung lain dalam satu per
 composer run dev
 ```
 
+## Tangkapan Layar
+
+![Tangkapan layar halaman utama](docs/screenshot.png)
+
 ## Lisensi
 
 Proyek ini memakai lisensi MIT. Lihat berkas [LICENSE](LICENSE) untuk teks lengkapnya.
